@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE Contact [
+<!ELEMENT Contact (first_name, last_name, email, grade)>
+<!ELEMENT first_name (#PCDATA)>
+<!ELEMENT last_name (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT grade (#PCDATA)>
+]>
